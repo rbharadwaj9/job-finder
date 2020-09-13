@@ -1,5 +1,5 @@
-# Job Finder
-Ever found a company you like but aren't able to find the jobs page? This project does just that!
+# The "Jobs" Finder
+Ever found a company you like but aren't able to find the "jobs" page? This project does just that!
 Supply a URL and this script will crawl through all possible pages and look for career-related keywords and give you information about where to look for opportunities.
 
 ## Usage
